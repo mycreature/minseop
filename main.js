@@ -1,1 +1,1 @@
-console.log("hello fuck")
+console.log("hello fucssk")
